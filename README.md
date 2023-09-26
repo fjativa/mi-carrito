@@ -6,6 +6,7 @@ Este carrito está desarrollado en Javascript, con CCS, HTML y LocalStorage.
 * [linkedin](https://www.linkedin.com/in/fredy-jativa-145b7ab6/) 
 
 ## Ver ejemplo en vivo.
+- [ENLACEGITHUBPAGES](ENLACEGITHUBPAGES)
 
 ## Instalación.
 Este proyecto no necesita instalación.
