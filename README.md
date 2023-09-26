@@ -1,2 +1,14 @@
-# carrito
-Este carrito esta desarrollado en Javascript, CCS, HTML y LocalStorage.
+## carrito
+Este carrito está desarrollado en Javascript, con CCS, HTML y LocalStorage.
+
+## Autor
+** Fredy Játiva.
+* [linkedin](https://www.linkedin.com/in/fredy-jativa-145b7ab6/) 
+
+## Ver ejemplo en vivo.
+
+## Instalación.
+Este proyecto no necesita instalación.
+
+## Contratatación.
+Si quieres contratarme puedes escribirme a sodipane@gmail.com.
